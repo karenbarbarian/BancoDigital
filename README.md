@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido no contexto do curso Código de Base da EDUC360 e tem como objetivo simular um sistema bancário. Ele inclui funcionalidades essenciais, como o cadastro de clientes, o gerenciamento de contas e a emissão de cartões, seguindo regras de negócio.
